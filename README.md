@@ -1,4 +1,8 @@
 # Data-Analysis-with-SQL-and-Power-BI
+
+![download](https://user-images.githubusercontent.com/108625825/228617220-123ca1b3-1e0f-4945-beff-043b0b381fbe.jpg)
+
+
 This project is a data anaylysis  about simpsons episodes. During the project, I have used PostgreSQL and PowerBI.
 # The Challange
 After data preparation, I have searched answers for a few question
@@ -13,6 +17,27 @@ After data preparation, I have searched answers for a few question
 -Data Reshaping
 -Data Analysis
 -Dashboard/Data Visualisation
+
+
+*Data Cleaning:
+
+I tried to fill in null values and N/A values. I get support from the internet to find missing values. However, There were still missing values, so When I queried missing values, the same column's missing values were null for the same rows. Hence, I have dropped it.
+
+*Data Reshaping
+
+I have created new columns, and I convert date to year, month and day. Also, I have changed columns type.
+
+
+*Data Analysis
+
+I looked at six different business questions.
+
+I will look following questions:
+
+
+*Dashboard/Data Visualisation
+
+I prepared a dashboard to observe all results on a screen through Power Bi. Also, I prepared a word cloud made up of episodes description.
 
 # Data Information
 Simpsons Charecters-
